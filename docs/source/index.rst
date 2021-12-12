@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Welcome to ATNET documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+[**AltcoinTrading.NET**](https://www.altcointrading.net/) is a blog and trading resource for the crypto markets. It's aim is to provide valuable information, which is why we reserve the final edit of *all content*.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This documents gives general idea about the content we want to publish in different sections, and some examples.
 
 .. note::
 
-   This project is under active development.
+   This document is meant for our content collaborators.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   strategy
+   blog
+   guides
+   glossary
